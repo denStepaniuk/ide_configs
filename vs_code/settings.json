@@ -1,0 +1,29 @@
+{
+    "editor.guides.bracketPairs": "active", // surround functions with lines
+    "editor.lineNumbers": "relative", // shows relative line number in crumbs leftside
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 14,
+    "editor.cursorBlinking": "solid",
+    "editor.renderWhitespace": "none", // enable white spaces rendering as indents 
+    "editor.renderLineHighlight": "none", // whether render line under coursoure or not 
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.scrollbar.vertical": "hidden", // hide scrollbars from side abd bottom
+    "editor.scrollbar.horizontal": "hidden",
+    "explorer.compactFolders": false, // whether or not concatenate folders in ine row 
+    "breadcrumbs.enabled": true,
+    "breadcrumbs.filePath": "on",
+    "workbench.colorTheme": "Kanagawa Wave",
+    "workbench.iconTheme": "catppuccin-macchiato", // required catppuccin plugin 
+    "workbench.productIconTheme": "a-file-icon-vscode-product-icon-theme", // recuired atom matherial icons plugin
+    "workbench.activityBar.location": "top",
+    "files.autoSave": "onFocusChange",
+    "files.insertFinalNewline": true, // inserts empty line in the end
+    "terminal.integrated.fontSize": 14,
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "extensions.ignoreRecommendations": true,
+}
+
